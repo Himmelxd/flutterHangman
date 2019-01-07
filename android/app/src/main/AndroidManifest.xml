@@ -15,7 +15,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="Hangman"
-        android:icon="@drawable/launch_background">
+        android:icon="@drawable/icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

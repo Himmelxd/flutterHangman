@@ -242,7 +242,6 @@ class _HangmanPageState extends State<HangmanPage> {
               margin: EdgeInsets.all(10),
             ),
             insetAnimationDuration: Duration(seconds: 1),
-            backgroundColor: Colors.grey[900],
           );
         },
         barrierDismissible: false);
